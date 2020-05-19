@@ -1,0 +1,12 @@
+#container {
+    margin : 0 auto;
+    width : 500px;
+    text-align : center;
+    margin-top : 100px;
+    font-family : sans-serif;
+    padding-bottom : 50px;
+}
+
+body {
+    background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
+}
